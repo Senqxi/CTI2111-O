@@ -12,7 +12,7 @@ magic_number = random.randint(1, 50)
 
 os.system('Clear')
 print("-" * 50)
-print("H3llo and Welc0me to my game cal1ed Numberz!\n\n 1n thi5 game y0u gu3ss the number 6etween 1 - 50 \n But b3ware y0u on1y have 5 chances t0 succeed!".center(50))
+print("H3llo and Welc0me to my game cal1ed Numberz!\n\n 1n thi5 game y0u gu3ss the number 6etween 1 - 50 \n But b3ware y0u on1y have 5 chances t0 succ3ed!".center(50))
 print("-" * 50)
 
 name = input("\nBef0re w3 start 3nter y0ur name: ")

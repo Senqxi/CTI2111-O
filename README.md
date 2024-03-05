@@ -1,4 +1,4 @@
-'''
+
 ################     BOOK     ###################
 
 Python Crash Course, 3rd Edition
@@ -42,4 +42,4 @@ As you work through the book, you'll learn how to:
 This updated third edition has been thoroughly revised to reflect the latest in Python code and practices. The first half of the book includes improved coverage of topics like variables, handling errors, and object-oriented programming. In the second half, the code for the projects has been updated with current example data, better app deployment, and up-to-date libraries and tools, like Plotly, the Tailwind CSS framework, and the latest version of Django.
 
 If you've been thinking about digging into programming, Python Crash Course will get you writing real programs fast. Why wait any longer? Start your engines and code!
-'''
+
